@@ -1,1 +1,1 @@
-# java_data_structure
+# huffman_tree_java
